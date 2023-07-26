@@ -46,7 +46,7 @@ $ cd 4yousee-coodesh
 4yousee-coodesh $ 
 ```
 
-### Instalação com o servidor nativo do PHP :elephants:
+### Instalação com o servidor nativo do PHP :elephant:
 
 01 -) Dentro do diretório da aplicação, execute o seguinte comando:
 ```bash
