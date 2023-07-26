@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  app:
+    build:
+      args:
+        user: ${USER}
+        uid: 1000
+      context: .
+      dockerfile: docker/Dockerfile   # Caminho correto para o Dockerfile
+    ports:
+      - "8000:8000"
