@@ -70,7 +70,7 @@ $ cd 4yousee-coodesh
 02 -) Para dar desativar a aplicação:
 
 * Utilizando servidor nativo do PHP, basta pressionar `CTRL+D` no seu terminal.
-* Utilizando docker, basta desativar os container da aplicação
+* Utilizando docker, basta desativar o container da aplicação
 ```bash
 4yousee-coodesh $  docker-compose down
 ```
