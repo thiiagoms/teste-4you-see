@@ -37,7 +37,7 @@
 
 01 -) Clone o repositório:
 ```bash
-$ git clone https://github.com/thiiagoms/4yousee-coodesh
+$ git clone https://github.com/thiiagoms/teste-4you-see 4yousee-coodesh
 ```
 
 02 -) Utilizando seu terminal, navegue até o diretório do projeto:
